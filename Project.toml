@@ -66,7 +66,7 @@ TupleTools = "1.2"
 VectorInterface = "0.4, 0.5"
 Zeros = "0.3.0, 0.4"
 ZygoteRules = "0.2.2"
-julia = "1.10"
+julia = "1.10, 1.11, 1.12"
 
 [extras]
 ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
