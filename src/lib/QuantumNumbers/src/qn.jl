@@ -4,8 +4,8 @@ using ..SmallStrings: SmallString
 using StaticArrays: MVector, SVector
 
 const maxQNs = 10
-const QNStorage = SVector{maxQNs,QNVal}
-const MQNStorage = MVector{maxQNs,QNVal}
+const QNStorage = SVector{maxQNs, QNVal}
+const MQNStorage = MVector{maxQNs, QNVal}
 
 """
 A QN object stores a collection of up to four
